@@ -1,0 +1,5 @@
+*.db
+uploads/
+vector_db/
+.env
+*.key
